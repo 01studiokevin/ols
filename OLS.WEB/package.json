@@ -1,0 +1,9 @@
+{
+  "version": "1.0.0",
+  "name": "ols",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "jquery": "3.6.0"
+  }
+}
